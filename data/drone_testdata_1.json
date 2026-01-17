@@ -1,0 +1,145 @@
+{
+    "nodes": [
+      {
+        "id": "HUB",
+        "name": "Central Hub",
+        "type": "hub",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "id": "D1",
+        "name": "Delivery Point 1",
+        "type": "delivery",
+        "x": 5,
+        "y": 2
+      },
+      {
+        "id": "D2",
+        "name": "Delivery Point 2",
+        "type": "delivery",
+        "x": 7,
+        "y": 4
+      },
+      {
+        "id": "D3",
+        "name": "Delivery Point 3",
+        "type": "delivery",
+        "x": -3,
+        "y": 5
+      },
+      {
+        "id": "CH1",
+        "name": "Charging Station 1",
+        "type": "charging",
+        "x": 3,
+        "y": 1
+      },
+      {
+        "id": "CH2",
+        "name": "Charging Station 2",
+        "type": "charging",
+        "x": -2,
+        "y": 3
+      },
+      {
+        "id": "R1",
+        "name": "Relay Station 1",
+        "type": "relay",
+        "x": 4,
+        "y": 4
+      }
+    ],
+    "edges": [
+      {
+        "from": "HUB",
+        "to": "D1",
+        "energy_cost": 10,
+        "capacity": 2,
+        "distance": 5,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "HUB",
+        "to": "CH1",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 3,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "CH1",
+        "to": "D2",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 4,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "CH2",
+        "to": "D3",
+        "energy_cost": 4,
+        "capacity": 1,
+        "distance": 3,
+        "bidirectional": false,
+        "restricted": true
+      },
+      {
+        "from": "HUB",
+        "to": "CH2",
+        "energy_cost": 7,
+        "capacity": 2,
+        "distance": 4,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D1",
+        "to": "D2",
+        "energy_cost": 4,
+        "capacity": 1,
+        "distance": 2,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D2",
+        "to": "D3",
+        "energy_cost": 8,
+        "capacity": 1,
+        "distance": 5,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "CH1",
+        "to": "R1",
+        "energy_cost": 3,
+        "capacity": 2,
+        "distance": 2,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "R1",
+        "to": "D3",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 3,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R1",
+        "to": "CH2",
+        "energy_cost": 5,
+        "capacity": 1,
+        "distance": 4,
+        "bidirectional": true,
+        "restricted": false
+      }
+    ]
+  }

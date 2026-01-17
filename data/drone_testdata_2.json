@@ -1,0 +1,1373 @@
+{
+    "nodes": [
+      {
+        "id": "HUB",
+        "name": "Central Hub",
+        "type": "hub",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "id": "D1",
+        "name": "Delivery 1",
+        "type": "delivery",
+        "x": 25,
+        "y": 22
+      },
+      {
+        "id": "D2",
+        "name": "Delivery 2",
+        "type": "delivery",
+        "x": 66,
+        "y": 84
+      },
+      {
+        "id": "D3",
+        "name": "Delivery 3",
+        "type": "delivery",
+        "x": 38,
+        "y": 44
+      },
+      {
+        "id": "D4",
+        "name": "Delivery 4",
+        "type": "delivery",
+        "x": 74,
+        "y": 31
+      },
+      {
+        "id": "D5",
+        "name": "Delivery 5",
+        "type": "delivery",
+        "x": 41,
+        "y": 93
+      },
+      {
+        "id": "D6",
+        "name": "Delivery 6",
+        "type": "delivery",
+        "x": 22,
+        "y": 70
+      },
+      {
+        "id": "D7",
+        "name": "Delivery 7",
+        "type": "delivery",
+        "x": 60,
+        "y": 46
+      },
+      {
+        "id": "D8",
+        "name": "Delivery 8",
+        "type": "delivery",
+        "x": 61,
+        "y": 78
+      },
+      {
+        "id": "D9",
+        "name": "Delivery 9",
+        "type": "delivery",
+        "x": 20,
+        "y": 51
+      },
+      {
+        "id": "D10",
+        "name": "Delivery 10",
+        "type": "delivery",
+        "x": 90,
+        "y": 74
+      },
+      {
+        "id": "D11",
+        "name": "Delivery 11",
+        "type": "delivery",
+        "x": 79,
+        "y": 71
+      },
+      {
+        "id": "D12",
+        "name": "Delivery 12",
+        "type": "delivery",
+        "x": 13,
+        "y": 27
+      },
+      {
+        "id": "D13",
+        "name": "Delivery 13",
+        "type": "delivery",
+        "x": 70,
+        "y": 46
+      },
+      {
+        "id": "D14",
+        "name": "Delivery 14",
+        "type": "delivery",
+        "x": 100,
+        "y": 100
+      },
+      {
+        "id": "D15",
+        "name": "Delivery 15",
+        "type": "delivery",
+        "x": 35,
+        "y": 69
+      },
+      {
+        "id": "D16",
+        "name": "Delivery 16",
+        "type": "delivery",
+        "x": 29,
+        "y": 75
+      },
+      {
+        "id": "D17",
+        "name": "Delivery 17",
+        "type": "delivery",
+        "x": 81,
+        "y": 79
+      },
+      {
+        "id": "D18",
+        "name": "Delivery 18",
+        "type": "delivery",
+        "x": 80,
+        "y": 26
+      },
+      {
+        "id": "D19",
+        "name": "Delivery 19",
+        "type": "delivery",
+        "x": 15,
+        "y": 63
+      },
+      {
+        "id": "D20",
+        "name": "Delivery 20",
+        "type": "delivery",
+        "x": 38,
+        "y": 21
+      },
+      {
+        "id": "D21",
+        "name": "Delivery 21",
+        "type": "delivery",
+        "x": 68,
+        "y": 19
+      },
+      {
+        "id": "D22",
+        "name": "Delivery 22",
+        "type": "delivery",
+        "x": 67,
+        "y": 19
+      },
+      {
+        "id": "D23",
+        "name": "Delivery 23",
+        "type": "delivery",
+        "x": 87,
+        "y": 30
+      },
+      {
+        "id": "D24",
+        "name": "Delivery 24",
+        "type": "delivery",
+        "x": 42,
+        "y": 100
+      },
+      {
+        "id": "D25",
+        "name": "Delivery 25",
+        "type": "delivery",
+        "x": 62,
+        "y": 34
+      },
+      {
+        "id": "C1",
+        "name": "Charging 1",
+        "type": "charging",
+        "x": 19,
+        "y": 68
+      },
+      {
+        "id": "C2",
+        "name": "Charging 2",
+        "type": "charging",
+        "x": 62,
+        "y": 99
+      },
+      {
+        "id": "C3",
+        "name": "Charging 3",
+        "type": "charging",
+        "x": 64,
+        "y": 78
+      },
+      {
+        "id": "C4",
+        "name": "Charging 4",
+        "type": "charging",
+        "x": 55,
+        "y": 39
+      },
+      {
+        "id": "C5",
+        "name": "Charging 5",
+        "type": "charging",
+        "x": 18,
+        "y": 70
+      },
+      {
+        "id": "C6",
+        "name": "Charging 6",
+        "type": "charging",
+        "x": 100,
+        "y": 36
+      },
+      {
+        "id": "C7",
+        "name": "Charging 7",
+        "type": "charging",
+        "x": 17,
+        "y": 86
+      },
+      {
+        "id": "C8",
+        "name": "Charging 8",
+        "type": "charging",
+        "x": 61,
+        "y": 77
+      },
+      {
+        "id": "C9",
+        "name": "Charging 9",
+        "type": "charging",
+        "x": 21,
+        "y": 99
+      },
+      {
+        "id": "C10",
+        "name": "Charging 10",
+        "type": "charging",
+        "x": 76,
+        "y": 22
+      },
+      {
+        "id": "R1",
+        "name": "Relay 1",
+        "type": "relay",
+        "x": 52,
+        "y": 63
+      },
+      {
+        "id": "R2",
+        "name": "Relay 2",
+        "type": "relay",
+        "x": 30,
+        "y": 92
+      },
+      {
+        "id": "R3",
+        "name": "Relay 3",
+        "type": "relay",
+        "x": 93,
+        "y": 61
+      },
+      {
+        "id": "R4",
+        "name": "Relay 4",
+        "type": "relay",
+        "x": 26,
+        "y": 78
+      },
+      {
+        "id": "R5",
+        "name": "Relay 5",
+        "type": "relay",
+        "x": 50,
+        "y": 44
+      }
+    ],
+    "edges": [
+      {
+        "from": "R1",
+        "to": "D8",
+        "energy_cost": 6,
+        "capacity": 1,
+        "distance": 23,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C2",
+        "to": "C7",
+        "energy_cost": 11,
+        "capacity": 2,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D11",
+        "to": "C7",
+        "energy_cost": 17,
+        "capacity": 1,
+        "distance": 14,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D20",
+        "to": "C9",
+        "energy_cost": 10,
+        "capacity": 3,
+        "distance": 10,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D8",
+        "to": "D10",
+        "energy_cost": 14,
+        "capacity": 1,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D21",
+        "to": "D9",
+        "energy_cost": 5,
+        "capacity": 1,
+        "distance": 5,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C1",
+        "to": "C6",
+        "energy_cost": 19,
+        "capacity": 2,
+        "distance": 4,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D16",
+        "to": "R5",
+        "energy_cost": 19,
+        "capacity": 2,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C10",
+        "to": "C6",
+        "energy_cost": 9,
+        "capacity": 3,
+        "distance": 8,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C10",
+        "to": "C4",
+        "energy_cost": 8,
+        "capacity": 1,
+        "distance": 19,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C9",
+        "to": "C10",
+        "energy_cost": 5,
+        "capacity": 1,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R2",
+        "to": "D2",
+        "energy_cost": 19,
+        "capacity": 1,
+        "distance": 7,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D15",
+        "to": "D4",
+        "energy_cost": 17,
+        "capacity": 1,
+        "distance": 19,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D12",
+        "to": "C6",
+        "energy_cost": 17,
+        "capacity": 3,
+        "distance": 15,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C4",
+        "to": "R3",
+        "energy_cost": 13,
+        "capacity": 2,
+        "distance": 9,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D17",
+        "to": "C4",
+        "energy_cost": 10,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D18",
+        "to": "D3",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D5",
+        "to": "C9",
+        "energy_cost": 16,
+        "capacity": 1,
+        "distance": 19,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D16",
+        "to": "D18",
+        "energy_cost": 6,
+        "capacity": 3,
+        "distance": 8,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C10",
+        "to": "D11",
+        "energy_cost": 11,
+        "capacity": 3,
+        "distance": 14,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D19",
+        "to": "D24",
+        "energy_cost": 7,
+        "capacity": 3,
+        "distance": 12,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C2",
+        "to": "D18",
+        "energy_cost": 20,
+        "capacity": 3,
+        "distance": 22,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C7",
+        "to": "D17",
+        "energy_cost": 8,
+        "capacity": 2,
+        "distance": 11,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C6",
+        "to": "C4",
+        "energy_cost": 19,
+        "capacity": 3,
+        "distance": 4,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D13",
+        "to": "D15",
+        "energy_cost": 17,
+        "capacity": 3,
+        "distance": 16,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C8",
+        "to": "C5",
+        "energy_cost": 18,
+        "capacity": 1,
+        "distance": 23,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C8",
+        "to": "C5",
+        "energy_cost": 17,
+        "capacity": 1,
+        "distance": 12,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C10",
+        "to": "D8",
+        "energy_cost": 16,
+        "capacity": 3,
+        "distance": 25,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C8",
+        "to": "D2",
+        "energy_cost": 20,
+        "capacity": 3,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D5",
+        "to": "C9",
+        "energy_cost": 16,
+        "capacity": 2,
+        "distance": 17,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R2",
+        "to": "D16",
+        "energy_cost": 15,
+        "capacity": 2,
+        "distance": 11,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D7",
+        "to": "R1",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 17,
+        "bidirectional": true,
+        "restricted": true
+      },
+      {
+        "from": "C10",
+        "to": "D1",
+        "energy_cost": 12,
+        "capacity": 3,
+        "distance": 2,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "D18",
+        "energy_cost": 12,
+        "capacity": 1,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R3",
+        "to": "D16",
+        "energy_cost": 15,
+        "capacity": 2,
+        "distance": 9,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D20",
+        "to": "D7",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 24,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C8",
+        "to": "D1",
+        "energy_cost": 16,
+        "capacity": 2,
+        "distance": 8,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D11",
+        "to": "C4",
+        "energy_cost": 20,
+        "capacity": 2,
+        "distance": 13,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D6",
+        "to": "C6",
+        "energy_cost": 19,
+        "capacity": 1,
+        "distance": 8,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D18",
+        "to": "D21",
+        "energy_cost": 17,
+        "capacity": 2,
+        "distance": 7,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R4",
+        "to": "R1",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 18,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C2",
+        "to": "D11",
+        "energy_cost": 13,
+        "capacity": 1,
+        "distance": 19,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C7",
+        "to": "D15",
+        "energy_cost": 17,
+        "capacity": 2,
+        "distance": 11,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "R4",
+        "to": "D20",
+        "energy_cost": 15,
+        "capacity": 2,
+        "distance": 13,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C9",
+        "to": "HUB",
+        "energy_cost": 9,
+        "capacity": 2,
+        "distance": 3,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D4",
+        "to": "D11",
+        "energy_cost": 7,
+        "capacity": 1,
+        "distance": 20,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R4",
+        "to": "R3",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 6,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "R5",
+        "energy_cost": 15,
+        "capacity": 3,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C2",
+        "to": "C5",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D8",
+        "to": "C8",
+        "energy_cost": 20,
+        "capacity": 1,
+        "distance": 20,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D25",
+        "to": "D9",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D21",
+        "to": "D5",
+        "energy_cost": 6,
+        "capacity": 3,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C2",
+        "to": "R2",
+        "energy_cost": 17,
+        "capacity": 2,
+        "distance": 24,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D6",
+        "to": "D2",
+        "energy_cost": 14,
+        "capacity": 3,
+        "distance": 17,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C6",
+        "to": "D17",
+        "energy_cost": 8,
+        "capacity": 2,
+        "distance": 23,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R3",
+        "to": "C1",
+        "energy_cost": 14,
+        "capacity": 2,
+        "distance": 23,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "C5",
+        "to": "D11",
+        "energy_cost": 10,
+        "capacity": 1,
+        "distance": 5,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D17",
+        "to": "R1",
+        "energy_cost": 20,
+        "capacity": 2,
+        "distance": 16,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D13",
+        "to": "D16",
+        "energy_cost": 19,
+        "capacity": 3,
+        "distance": 13,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D16",
+        "to": "C1",
+        "energy_cost": 9,
+        "capacity": 3,
+        "distance": 16,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D23",
+        "to": "R5",
+        "energy_cost": 14,
+        "capacity": 3,
+        "distance": 11,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D23",
+        "to": "C6",
+        "energy_cost": 12,
+        "capacity": 1,
+        "distance": 2,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D17",
+        "to": "R1",
+        "energy_cost": 11,
+        "capacity": 3,
+        "distance": 4,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "R2",
+        "energy_cost": 9,
+        "capacity": 3,
+        "distance": 22,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R3",
+        "to": "D8",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 4,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R3",
+        "to": "C7",
+        "energy_cost": 17,
+        "capacity": 2,
+        "distance": 16,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D20",
+        "to": "R1",
+        "energy_cost": 16,
+        "capacity": 3,
+        "distance": 6,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C7",
+        "to": "D25",
+        "energy_cost": 16,
+        "capacity": 2,
+        "distance": 9,
+        "bidirectional": false,
+        "restricted": true
+      },
+      {
+        "from": "D19",
+        "to": "R1",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 24,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D20",
+        "to": "D22",
+        "energy_cost": 12,
+        "capacity": 2,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D19",
+        "to": "D23",
+        "energy_cost": 8,
+        "capacity": 3,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D21",
+        "to": "D20",
+        "energy_cost": 12,
+        "capacity": 3,
+        "distance": 14,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R4",
+        "to": "D8",
+        "energy_cost": 20,
+        "capacity": 1,
+        "distance": 18,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D24",
+        "to": "C2",
+        "energy_cost": 7,
+        "capacity": 3,
+        "distance": 16,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D23",
+        "to": "D10",
+        "energy_cost": 8,
+        "capacity": 2,
+        "distance": 23,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C7",
+        "to": "D24",
+        "energy_cost": 18,
+        "capacity": 3,
+        "distance": 10,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D2",
+        "to": "R4",
+        "energy_cost": 11,
+        "capacity": 1,
+        "distance": 3,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D3",
+        "to": "D23",
+        "energy_cost": 17,
+        "capacity": 1,
+        "distance": 9,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D1",
+        "to": "D5",
+        "energy_cost": 12,
+        "capacity": 3,
+        "distance": 14,
+        "bidirectional": false,
+        "restricted": true
+      },
+      {
+        "from": "R3",
+        "to": "C8",
+        "energy_cost": 6,
+        "capacity": 2,
+        "distance": 6,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R3",
+        "to": "D6",
+        "energy_cost": 9,
+        "capacity": 2,
+        "distance": 6,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D4",
+        "to": "C4",
+        "energy_cost": 19,
+        "capacity": 3,
+        "distance": 5,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "HUB",
+        "to": "D19",
+        "energy_cost": 6,
+        "capacity": 3,
+        "distance": 11,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D5",
+        "to": "C9",
+        "energy_cost": 6,
+        "capacity": 3,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D20",
+        "to": "R5",
+        "energy_cost": 11,
+        "capacity": 2,
+        "distance": 3,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D19",
+        "to": "D25",
+        "energy_cost": 14,
+        "capacity": 3,
+        "distance": 6,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D16",
+        "to": "D2",
+        "energy_cost": 20,
+        "capacity": 2,
+        "distance": 25,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D19",
+        "to": "D5",
+        "energy_cost": 11,
+        "capacity": 3,
+        "distance": 11,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D1",
+        "to": "C8",
+        "energy_cost": 19,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D2",
+        "to": "C8",
+        "energy_cost": 20,
+        "capacity": 3,
+        "distance": 16,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D2",
+        "to": "D11",
+        "energy_cost": 18,
+        "capacity": 1,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C7",
+        "to": "HUB",
+        "energy_cost": 18,
+        "capacity": 2,
+        "distance": 17,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C10",
+        "to": "D6",
+        "energy_cost": 10,
+        "capacity": 2,
+        "distance": 25,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D9",
+        "to": "D3",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D1",
+        "to": "R5",
+        "energy_cost": 11,
+        "capacity": 2,
+        "distance": 2,
+        "bidirectional": false,
+        "restricted": true
+      },
+      {
+        "from": "D12",
+        "to": "D11",
+        "energy_cost": 14,
+        "capacity": 2,
+        "distance": 18,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D9",
+        "to": "D3",
+        "energy_cost": 18,
+        "capacity": 2,
+        "distance": 17,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D24",
+        "to": "D15",
+        "energy_cost": 10,
+        "capacity": 3,
+        "distance": 3,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C6",
+        "to": "D15",
+        "energy_cost": 5,
+        "capacity": 1,
+        "distance": 9,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C3",
+        "to": "D22",
+        "energy_cost": 9,
+        "capacity": 1,
+        "distance": 16,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R5",
+        "to": "D7",
+        "energy_cost": 9,
+        "capacity": 2,
+        "distance": 25,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D6",
+        "to": "D22",
+        "energy_cost": 17,
+        "capacity": 3,
+        "distance": 12,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D12",
+        "to": "C8",
+        "energy_cost": 8,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D9",
+        "to": "R2",
+        "energy_cost": 8,
+        "capacity": 3,
+        "distance": 19,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D6",
+        "to": "D5",
+        "energy_cost": 11,
+        "capacity": 2,
+        "distance": 17,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D6",
+        "to": "D15",
+        "energy_cost": 20,
+        "capacity": 2,
+        "distance": 9,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "C2",
+        "energy_cost": 5,
+        "capacity": 2,
+        "distance": 10,
+        "bidirectional": false,
+        "restricted": true
+      },
+      {
+        "from": "C10",
+        "to": "C4",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 23,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D19",
+        "to": "D6",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 5,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "D8",
+        "energy_cost": 20,
+        "capacity": 2,
+        "distance": 15,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D17",
+        "to": "D23",
+        "energy_cost": 16,
+        "capacity": 2,
+        "distance": 12,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D5",
+        "to": "HUB",
+        "energy_cost": 11,
+        "capacity": 1,
+        "distance": 1,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D24",
+        "to": "R3",
+        "energy_cost": 14,
+        "capacity": 2,
+        "distance": 3,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D18",
+        "to": "C2",
+        "energy_cost": 19,
+        "capacity": 3,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "R2",
+        "to": "D18",
+        "energy_cost": 15,
+        "capacity": 1,
+        "distance": 15,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "C5",
+        "to": "D5",
+        "energy_cost": 14,
+        "capacity": 1,
+        "distance": 10,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D16",
+        "to": "D5",
+        "energy_cost": 8,
+        "capacity": 2,
+        "distance": 25,
+        "bidirectional": true,
+        "restricted": false
+      },
+      {
+        "from": "D22",
+        "to": "D1",
+        "energy_cost": 10,
+        "capacity": 2,
+        "distance": 16,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D24",
+        "to": "D5",
+        "energy_cost": 5,
+        "capacity": 3,
+        "distance": 21,
+        "bidirectional": false,
+        "restricted": false
+      },
+      {
+        "from": "D15",
+        "to": "D9",
+        "energy_cost": 10,
+        "capacity": 3,
+        "distance": 22,
+        "bidirectional": false,
+        "restricted": false
+      }
+    ]
+  }
